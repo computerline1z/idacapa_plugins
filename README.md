@@ -10,4 +10,4 @@ Install:
 git clone --recursive https://github.com/computerline1z/idacapa_plugins.git
 ```
 copy capa_explorer.py and idacapa folder to IDADIR/plugins
-(rules already contains in idacapa folder, could be update by cd to idacapa\capa-rules and run git fetch & git pull
+rules data is in folder idacapa\capa-rules, just clone rules repository https://github.com/fireeye/capa-rules.git and copy contents to capa-rules folder
