@@ -24,7 +24,7 @@ from PyQt5 import QtGui, QtCore, QtWidgets
 
 import capa.main
 import capa.rules
-#import capa.render
+import capa.render
 import idacapa.ida.helpers
 import capa.render.utils as rutils
 import capa.features.extractors.ida
